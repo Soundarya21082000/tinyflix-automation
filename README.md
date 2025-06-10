@@ -8,7 +8,7 @@ Make sure the following tools are installed on your machine:
 4.Internet connection (required for Maven to download dependencies)
 5.Eclipse IDE (optional, but recommended)
 **Clone or Download the Repository**
-Clone using Git (if set up): 
+Clone using Git (if set up): https://github.com/Soundarya21082000/tinyflix-automation.git
 Or download the ZIP file and extract it locally.
 **Import Project in Eclipse (Optional)**
 1.Open Eclipse
